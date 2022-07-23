@@ -5,7 +5,7 @@
 
 - 🏃‍♂️ I am passionate about Devops , Problem solving and Networking.
 - 🌱 I’m currently learning devops tools 
-- 🥅 2022 Goals: Learn more about kubernates and take CKA certified
+- 🥅 2022 Goals: Learn more about kubernates and take CKA certification
 - 🍀 Ask me about anything, I will be happy to help
 <div align="center">
 

@@ -10,17 +10,10 @@
 - 🥅 2022 Goals: Learn more about kubernates and take CKA certified
 9
 - 🍀 Ask me about anything, I will be happy to help
-10
-​
-11
 <div align="center">
-12
-​
-13
+
 <a href="https://www.linkedin.com/in/sara-galall/"><img align="left" alt="my LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
-14
-​
-15
+
 <a href="https://github.com/sera364">
 16
   <img align="left" alt="my github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />

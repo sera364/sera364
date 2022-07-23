@@ -4,11 +4,8 @@
 ## I'm a DevOps Engineer  <img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" width="50px">
 
 - 🏃‍♂️ I am passionate about Devops , Problem solving and Networking.
-7
 - 🌱 I’m currently learning devops tools 
-8
 - 🥅 2022 Goals: Learn more about kubernates and take CKA certified
-9
 - 🍀 Ask me about anything, I will be happy to help
 <div align="center">
 

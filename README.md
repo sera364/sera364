@@ -35,9 +35,5 @@
 <br/>
 27
 <br/>
-28
-​
-29
-​
-30
+
 <p align="center">  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif" alt="Devops GIF" width="500" height="400"></p>

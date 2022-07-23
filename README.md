@@ -1,14 +1,8 @@
 
 # Hi there <img src="https://raw.githubusercontent.com/AbdallahHemdan/AbdallahHemdan/master/wave.gif" width="40px">, I'm Sara 
-2
-​
-3
-​
-4
+
 ## I'm a DevOps Engineer  <img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" width="50px">
-5
-​
-6
+
 - 🏃‍♂️ I am passionate about Devops , Problem solving and Networking.
 7
 - 🌱 I’m currently learning devops tools 

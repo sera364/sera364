@@ -15,17 +15,12 @@
 <a href="https://www.linkedin.com/in/sara-galall/"><img align="left" alt="my LinkdeIN" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" draggable="false" /></a>
 
 <a href="https://github.com/sera364">
-16
+
   <img align="left" alt="my github" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
-17
 </a>
-18
-​
-21
 <a href="mailto:galalsara0@gmail.com">
-22
+
   <img align="left" alt="my email" width="50px" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" draggable="false" />
-23
 </a>
 24
 ​

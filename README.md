@@ -1,16 +1,49 @@
-### Hi there 👋
+Hi there , I'm Sara 
+I'm a DevOps Engineer ![image](https://user-images.githubusercontent.com/53039820/180590162-67f2f34f-af71-47f6-a7c0-cbf286e55165.png)
 
-<!--
-**sera364/sera364** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+running_man I am passionate about devops , Problem solving , Networking.
+seedling I’m currently devops tools 
+goal_net 2022 Goals: Learn more about AWS
+four_leaf_clover Ask me about anything, I will be happy to help
+my LinkdeIN
 
-Here are some ideas to get you started:
+my githubmy hackerrankmy email
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cst5AXzPxRLyIwMNsV/giphy.gif" width="100"/>
+</div>
+
+
+
+Languages and Tools:
+HTML5
+
+CSS3
+
+Python
+
+Ruby
+
+Bash
+
+Django
+
+Rails
+
+AWS
+
+Docker
+
+Kubernetes
+
+Ansible
+
+Terraform
+
+Git
+
+Github
+
+Visual Studio Code

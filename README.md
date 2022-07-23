@@ -19,13 +19,10 @@
 
   <img align="left" alt="my email" width="50px" src="https://www.freepnglogos.com/uploads/email-png/email-western-libraries-12.png" draggable="false" />
 </a>
-24
-​
-25
 </div>
-26
-<br/>
-27
+
 <br/>
 
-<p align="center">  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif" alt="Devops GIF" width="500" height="400"></p>
+<br/>
+
+<p align="center">  <img src="https://media.giphy.com/media/cst5AXzPxRLyIwMNsV/giphy.gif" alt="Devops GIF" width="500" height="400"></p>
